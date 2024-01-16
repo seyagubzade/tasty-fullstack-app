@@ -1,0 +1,19 @@
+.header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #404044;
+    color: #fff!important;
+    z-index: 1000;
+    a{
+        color: #fff!important;
+        font-size: 18px!important;
+    }
+    .nav-item{
+        display: flex;
+        align-items: center;
+    }
+    header{
+        justify-content: space-between!important;
+    }
+}
